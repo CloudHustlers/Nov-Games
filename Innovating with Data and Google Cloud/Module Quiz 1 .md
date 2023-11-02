@@ -1,8 +1,8 @@
 [![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
 # Module Quiz 1
 ____
-## Mark owns a large pharmaceutical company that manufactures essential medical supplies. The production lines are required to operate efficiently at all times. How can Mark use cloud technology to ensure his production lines are meeting optimal performance requirements? Select the correct answer.```
-Evaluate real-time data to predict maintenance requirements```
+## Mark owns a large pharmaceutical company that manufactures essential medical supplies. The production lines are required to operate efficiently at all times. How can Mark use cloud technology to ensure his production lines are meeting optimal performance requirements? Select the correct answer.
+```Evaluate real-time data to predict maintenance requirements```
 ____
 ## Images and videos are examples of what type of data? Select the correct answer.
 ```Unstructured```
