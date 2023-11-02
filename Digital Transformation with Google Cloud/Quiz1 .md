@@ -15,7 +15,7 @@ ____
 ```Open source software reduces the chance of vendor lock-in.```
 ____
 ## Select the two capabilities that form the basis of a transformation cloud? Select two correct answers.
-```Data cloud provides a unified solution to manage data across the entire data lifecycle.```
+```Data cloud provides a unified solution to manage data across the entire data lifecycle.```<br>
 ```Open infrastructure gives the freedom to innovate by running applications in the place that makes the most sense.```
 ____
 ## An organization has made significant investments in their own infrastructure and has regulatory requirements for their data to be hosted on-premises. Which cloud implementation would best suit their needs?
