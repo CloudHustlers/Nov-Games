@@ -24,8 +24,8 @@ ____
 ____
 ### Which of the following are examples of pre-training for a large language model (LLM)? (Select 3)
 ```Text classification``` <br>
-```Text classification``` <br>
-```Question answering```
+```Question answering``` <br>
+```Document summarization```
 ____
 ### You are planning a trip to Germany in a few months. You’ve booked a hotel that includes dinner. You want to email the hotel so they are aware of your food preferences. Using gen AI, you can easily generate an email in German using English prompts. Which gen AI training model enables you to do this?
 ```Text-to-text```
@@ -34,7 +34,7 @@ ____
 ```Unsupervised learning```
 ____
 ### What are the elements of a transformer model at a high-level?
-```What are the elements of a transformer model at a high-level?```
+```Encoder and decoder```
 ____
 ### You want to organize documents into distinct groups, without predefining the groups. Which type of machine learning model should you use?
 ```Unsupervised learning model```
